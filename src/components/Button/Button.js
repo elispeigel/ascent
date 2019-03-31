@@ -7,6 +7,11 @@ const StyledButton = styled.button`
   width: 100%;
   height: auto;
   font-size: 1.2rem;
+
+  :hover {
+    background: #7fc9e2;
+    color: black;
+  }
 `;
 
 const Button = ({title}) => {
