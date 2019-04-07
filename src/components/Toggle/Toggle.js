@@ -6,7 +6,7 @@ import { Spring } from 'react-spring/renderprops';
 const ToggleSwitch = styled.div`
   grid-column-start:${props => props.toggled ? '2' : '1'};
   grid-column-end:${props => props.toggled ? '3' : '2'};
-  background: ${props => props.toggled ? '#7fc9e2' : 'white'} ;
+  background: ${props => props.toggled ? '#7fc9e2' : '#bfe3ef'} ;
   height: 90%;   
   width: 98%;
   z-index: 2;

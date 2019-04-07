@@ -8,7 +8,7 @@ const ToggleHouse = styled.div`
   background: #1F2041;
   width: 100%;
   height: 100px;
-  border: white;
+  border: #bfe3ef;
   border-radius: 5px;
   z-index: 1;
 `;
