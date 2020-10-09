@@ -41,6 +41,6 @@
     "react-beautiful-dnd": "^10.1.1",
     "react-dom": "^16.8.6",
     "react-spring": "^8.0.18",
-    "styled-components": "^4.2.0"
+    "styled-components": "^4.4.1"
   }
 }
